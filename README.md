@@ -1,3 +1,9 @@
+# AD 购买跨境账号就上 跨境小铺
+
+跨境小铺 - 跨境账号购买,跨境小铺,AppleID,GV账号,谷歌账号,Telegram会员,谷歌邮箱,谷歌网盘,小火箭,Quan x,苹果礼品卡,Apple兑换码,网站代搭建
+
+购买地址 https://store.buykjzh.com
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
